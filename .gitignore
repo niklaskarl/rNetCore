@@ -1,0 +1,8 @@
+
+.build/
+.tests-unix-gcc/
+.tests-win-mingw/
+.tests-win-msbuild/
+
+.vs/
+.vscode/

@@ -1,0 +1,2 @@
+useDynLib(rNetCore)
+export(.nwhich, .nversions, .nload, .ninit, .ncall)

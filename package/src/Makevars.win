@@ -1,0 +1,18 @@
+# local packages
+PKG_LIBS= clrhost/libclrhost.a semver/libsemver.a pal/libpal.a stringtranscoding/libstringtranscoding.a
+
+# windows packages
+PKG_LIBS+= -lSHLWAPI -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+
+# MinGW compiler flags
+PKG_CXXFLAGS= -std=gnu++14 -DWIN32
+
+SUBDIRS = stringtranscoding semver pal clrhost
+BUILDDIRS = $(SUBDIRS:%build-%)
+
+export
+all:$(SUBDIRS)
+$(SUBDIRS):
+	$(MAKE) -C $@
+
+.PHONY: $(SUBDIRS) $(BUILDDIRS)

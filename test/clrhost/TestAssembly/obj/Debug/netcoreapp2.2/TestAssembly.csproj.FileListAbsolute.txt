@@ -1,0 +1,11 @@
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Debug\netcoreapp2.2\TestAssembly.deps.json
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Debug\netcoreapp2.2\TestAssembly.runtimeconfig.json
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Debug\netcoreapp2.2\TestAssembly.runtimeconfig.dev.json
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Debug\netcoreapp2.2\TestAssembly.dll
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Debug\netcoreapp2.2\TestAssembly.pdb
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Debug\netcoreapp2.2\TestAssembly.csprojAssemblyReference.cache
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Debug\netcoreapp2.2\TestAssembly.csproj.CoreCompileInputs.cache
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Debug\netcoreapp2.2\TestAssembly.AssemblyInfoInputs.cache
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Debug\netcoreapp2.2\TestAssembly.AssemblyInfo.cs
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Debug\netcoreapp2.2\TestAssembly.dll
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Debug\netcoreapp2.2\TestAssembly.pdb

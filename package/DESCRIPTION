@@ -1,0 +1,13 @@
+Package: rNetCore
+Version: 0.1-0
+Date: 2018-11-05
+Title: R interface for .NET Core
+Authors@R: c(person("Niklas", "Karl", role = c("aut", "cre"), email = "Niklas.Karl@outlook.com"))
+Author: Niklas Karl [aut, cre]
+Maintainer: Niklas Karl <Niklas.Karl@outlook.com>
+Depends: R (>= 3.1.0), Rcpp
+LinkingTo: Rcpp
+Description: Package for interop to .NET Core
+License: GPL (>= 2)
+URL: https://www.github.com/niklaskarl
+BugReports: https://www.github.com/niklaskarl

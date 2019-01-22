@@ -1,0 +1,9 @@
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Release\netstandard1.3\TestAssembly.deps.json
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Release\netstandard1.3\TestAssembly.dll
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\bin\Release\netstandard1.3\TestAssembly.pdb
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Release\netstandard1.3\TestAssembly.csprojAssemblyReference.cache
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Release\netstandard1.3\TestAssembly.csproj.CoreCompileInputs.cache
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Release\netstandard1.3\TestAssembly.AssemblyInfoInputs.cache
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Release\netstandard1.3\TestAssembly.AssemblyInfo.cs
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Release\netstandard1.3\TestAssembly.dll
+C:\Users\nikla\Source\Repos\rNetCore\test\clrhost\TestAssembly\obj\Release\netstandard1.3\TestAssembly.pdb

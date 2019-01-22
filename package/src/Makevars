@@ -1,0 +1,14 @@
+# local packages
+PKG_LIBS= clrhost/libclrhost.a semver/libsemver.a pal/libpal.a stringtranscoding/libstringtranscoding.a
+
+# GCC compiler flags
+PKG_CXXFLAGS= -std=gnu++14 -DLINUX
+
+SUBDIRS = semver stringtranscoding pal clrhost
+BUILDDIRS = $(SUBDIRS:%build-%)
+
+all:$(SUBDIRS)
+$(SUBDIRS):
+	$(MAKE) -C $@
+
+.PHONY: $(SUBDIRS) $(BUILDDIRS)
