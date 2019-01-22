@@ -157,18 +157,6 @@ HRESULT CLRHostDotnetWin::CreateAppDomain(const utf16char_t *pDllPath, std::shar
             nativeDllSearchDirs.c_str()
         };
 
-#ifdef WIN32
-        _putws(L"TPALIST:");
-        _putws((const wchar_t *)tpalist.c_str());
-        _putws(L"\n");
-        _putws(L"DLL_DIRECTORY:");
-        _putws((const wchar_t *)dllDirectory.c_str());
-        _putws(L"\n");
-        _putws(L"NATIVE_DLL_SEARCH_DIRS:");
-        _putws((const wchar_t *)nativeDllSearchDirs.c_str());
-        _putws(L"\n");
-#endif
-
         hr = m_pRuntimeHost->CreateAppDomainWithManager(
             u"Sample Host AppDomain",       // Friendly AD name
             appdomainFlags,
